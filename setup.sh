@@ -1,3 +1,4 @@
+#create a .streamlit directory
 mkdir -p ~/.streamlit/
 
 
